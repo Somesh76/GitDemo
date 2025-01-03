@@ -22,3 +22,9 @@ print((div))
 modu=b//a
 divs=b/a
 print(modu,divs)
+
+add = a+b
+print(add)
+
+sub = b-a
+print(sub)
